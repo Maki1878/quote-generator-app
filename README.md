@@ -5,6 +5,7 @@ App that displays a new Quote every time a "New Quote" button is clicked
 ## Project specifications
 
 - Using fetch and async/await to get data from a third-party API (https://type.fit/api/quotes)
+- Using Sass for styling
 - Display Quote and Author in the DOM
 - Click on a "New Quote" button to get a new Quote
 - Click on a "twitter" button to open twitter in a new tab and tweet the Quote (if logged in twitter)
